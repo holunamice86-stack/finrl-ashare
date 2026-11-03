@@ -1,0 +1,23 @@
+# 数据与模型（体积大/含隐私，不随仓库发布）
+*.csv
+*.pth
+stock_names.json
+paper_account_ashare.json
+.web_key
+nohup.out
+
+# 运行产物
+results/
+logs/
+__pycache__/
+*.pyc
+server.log
+watchdog.log
+make_ashare_progress.log
+*.json.log
+
+# 本地路径无关的编辑器/系统文件
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db

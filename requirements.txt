@@ -1,0 +1,11 @@
+torch>=2.0
+gym>=0.26
+numpy
+pandas
+stockstats
+matplotlib
+requests
+flask
+waitress
+tqdm
+joblib
